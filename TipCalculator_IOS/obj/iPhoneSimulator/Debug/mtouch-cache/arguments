@@ -1,0 +1,29 @@
+# Version: 8.9.1.3 (f7736a4)
+# [first argument, ignore] # /Users/markkoble/Projects/Week3/TipCalculator/TipCalculator_IOS/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.9.1.3/bin/mtouch-64 \
+	--cache \
+	/Users/markkoble/Projects/Week3/TipCalculator/TipCalculator_IOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/markkoble/Projects/Week3/TipCalculator/TipCalculator_IOS/bin/iPhoneSimulator/Debug/TipCalculator_IOS.app \
+	--executable \
+	TipCalculator_IOS \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.3 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/markkoble/Projects/Week3/TipCalculator/TipCalculator_IOS/bin/iPhoneSimulator/Debug//TipCalculator_IOS.exe \

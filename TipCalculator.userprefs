@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="TipCalculator_IOS/TipCalculator_IOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.3" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TipCalculator_IOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TipCalculator_IOS/TipCalculator_IOSViewController.cs" Line="32" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
